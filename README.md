@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youri333
-- 👀 I’m interested in ... Linux, android, Nintendo, Google et l'open source 
-- 🌱 I’m currently learning ... In Linux debian
+- 👀 I’m interested in ... Linux, android, Nintendo et l'open source 
+- 🌱 I’m currently learning ... In Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
